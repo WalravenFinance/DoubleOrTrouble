@@ -1,5 +1,5 @@
 <div align="center">
-<h1><strong> CoinFlip - Double up your ETH! </strong></h1>
+<h1><strong> Double Or Trouble - Get your inner Degen going! </strong></h1>
 
 [![](https://img.shields.io/badge/Moralis%20Academy-Ethereum%20201-blue)](https://academy.moralis.io)
 [![Stargazers](https://img.shields.io/github/stars/Pedrojok01/CoinFlip_2.0)](https://github.com/Pedrojok01/CoinFlip_2.0/stargazers)
@@ -15,13 +15,6 @@
 - 2022/07 - Switch to Chainlink VRF v2 & Update solidity compiler version to 0.8.7;
 - 2022/12 - Switch to Goerli network v2 & upgrade all deps & Update solc to 0.8.16;
 
-## Description
-
-Decentralized application (Dapp), EVM compatible, built as a part of the programming course: Ethereum201 on [academy.moralis.com](https://academy.moralis.io).
-
-Try it yourself: [coinflip-double-up-your-eth.netlify.app/](https://coinflip-double-up-your-eth.netlify.app/)
-
-![Preview](./preview.gif)
 
 ## Built With
 
